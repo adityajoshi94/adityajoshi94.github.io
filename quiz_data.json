@@ -1,7 +1,7 @@
 	[	
 		{
 			"img" :  "archive/Art_Deco",
-			"interior_style" :  "Art_Deco",
+			"interior_style" :  "Art Deco",
 			"question" : "Do  you like interior in the above photo?",
 			"answers"  : [
 				{"id"  : 0, "text" : "Yes" },
@@ -10,7 +10,7 @@
 		},
 		{
 			"img" :  "archive/Classic_Modern",
-			"interior_style" :  "Classic_Modern",
+			"interior_style" :  "Classic Modern",
 			"question" : "Do  you like interior in the above photo?",
 			"answers"  : [
 				{"id"  : 0, "text" : "Yes" },
@@ -19,7 +19,7 @@
 		},
 		{
 			"img" :  "archive/English_Colonial",
-			"interior_style" :  "English_Colonial",
+			"interior_style" :  "English Colonial",
 			"question" : "Do  you like interior in the above photo?",
 			"answers"  : [
 				{"id"  : 0, "text" : "Yes" },
@@ -28,7 +28,7 @@
 		},
 		{
 			"img" :  "archive/French_Country",
-			"interior_style" :  "French_Country",
+			"interior_style" :  "French Country",
 			"question" : "Do  you like interior in the above photo?",
 			"answers"  : [
 				{"id"  : 0, "text" : "Yes" },
